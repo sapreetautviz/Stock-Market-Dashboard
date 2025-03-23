@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Stock_Market_Dashboard.Controllers.StockController",
+    "Method": "GetStockPrice",
+    "RelativePath": "api/Stock/Stocks-info",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stocks",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

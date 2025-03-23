@@ -146,3 +146,4 @@ D:\Autviz\Stock-Market-Dashboard\Stock-Market-Dashboard\obj\Debug\net8.0\refint\
 D:\Autviz\Stock-Market-Dashboard\Stock-Market-Dashboard\obj\Debug\net8.0\Stock-Market-Dashboard.pdb
 D:\Autviz\Stock-Market-Dashboard\Stock-Market-Dashboard\obj\Debug\net8.0\Stock-Market-Dashboard.genruntimeconfig.cache
 D:\Autviz\Stock-Market-Dashboard\Stock-Market-Dashboard\obj\Debug\net8.0\ref\Stock-Market-Dashboard.dll
+D:\Autviz\Stock-Market-Dashboard\Stock-Market-Dashboard\bin\Debug\net8.0\Newtonsoft.Json.dll
